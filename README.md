@@ -9,6 +9,7 @@ List, import and export Kibana objects.
 `-export` exports all objects
 
   You need to specify an object type (like dashboard, visualization or index-pattern) using `-t`
+
   You can optionally specify an object id using `-id`
 
   If you want to retrieve all dependant objects use `-all`
